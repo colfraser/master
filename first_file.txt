@@ -1,2 +1,6 @@
 new file
+<<<<<<< HEAD
 extra line number 2 
+=======
+extra line number 3 
+>>>>>>> 82366311664620ffd9f0c209f7b50b9b21389f31
